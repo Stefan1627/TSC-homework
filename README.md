@@ -1,7 +1,7 @@
 # TSC-homework - Stefan Calmac 334CC
 # InkTime Watch
 
-![InkTime Watch 3D Render](Images/InkTime_Watch.jpg)
+![InkTime Watch 3D Render](Images/case.png)
 
 ---
 
