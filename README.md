@@ -189,5 +189,13 @@ The major hardware peripherals are mapped to the MCU as follows:
 
 ## PCB Design
 
-### Photos
+![Top layer](Images/Top.png)
+
+![Middle_1 layer](Images/GND.png)
+
+![Middle_2 layer](Images/Power.png)
+
+![Bottom layer](Images/Bottom.png)
+
+![3D Pcb](Images/Screenshot 2026-04-21 020502.png)
 
