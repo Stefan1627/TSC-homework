@@ -197,5 +197,5 @@ The major hardware peripherals are mapped to the MCU as follows:
 
 ![Bottom layer](Images/Bottom.png)
 
-![3D Pcb](Images/Screenshot 2026-04-21 020502.png)
+![3D Pcb](Images/3d_pcb_diagonal.png)
 
